@@ -8,7 +8,7 @@ body {
 }
 
 input {
-    border-radius: 15px;
+    border-radius: 7px;
     border: 1px solid gray;
     width: 200px;
 }
