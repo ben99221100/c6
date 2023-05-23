@@ -4,6 +4,7 @@ h1 {
 }
 
 body {
+    /* זה רקע קצת כהה מדי, צריך לשנות את זה */
     background-color: rgb(221, 221, 221);
 }
 
@@ -11,4 +12,10 @@ input {
     border-radius: 7px;
     border: 1px solid gray;
     width: 200px;
+}
+
+button {
+    width: 200px;
+    border-radius: 30px;
+    background-color: lightgreen;
 }
