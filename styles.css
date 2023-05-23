@@ -6,3 +6,9 @@ h1 {
 body {
     background-color: rgb(221, 221, 221);
 }
+
+input {
+    border-radius: 15px;
+    border: 1px solid gray;
+    width: 200px;
+}
